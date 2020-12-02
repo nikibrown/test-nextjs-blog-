@@ -18,10 +18,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-	"start": "next start",
-	"postbuild": "next-on-netlify"
-  },
-  
+	"start": "next start"  
+},
   "repository": {
     "type": "git",
     "url": "https://github.com/prismicio/nextjs-blog.git"
